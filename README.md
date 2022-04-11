@@ -10,7 +10,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-s22/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-s22/STARTER-jpa02
+Repo: https://ucsb-cs156-s22/STARTER-YoshiShah
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
@@ -18,13 +18,13 @@ Repo: https://ucsb-cs156-s22/STARTER-jpa02
   https://cs156-s22-jpa02-cgaucho.herokuapp.com
 
 
-On Heroku: https://cs156-s22-jpa02-cgaucho.herokuapp.com
+On Heroku: https://jpa02-ayushshah.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
   a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa02-YoshiShah
 
 
 # About this repo
